@@ -2,7 +2,7 @@
 
 Vytvořte v TypeScriptu datový model pro webovou aplikaci, která nabízí nemovitosti k prodeji nebo pronájmu.
 
-Doména obsahuje různé typy nemovitostí: dům, byt, garáž a pozemek. Všechny nemovitosti obsahují informace jako
+Doména obsahuje různé typy nemovitostí: **dům**, **byt**, **garáž** a **pozemek**. Všechny nemovitosti obsahují informace jako
 
 - název,
 - lokace,
